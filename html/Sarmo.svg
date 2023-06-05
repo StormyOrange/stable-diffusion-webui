@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126.87 26.46">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Hind-SemiBold, Hind;
+        font-size: 16.52px;
+        font-weight: 600;
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #f7931e;
+      }
+
+      .cls-2 {
+        font-family: Hind-Bold, Hind;
+        font-size: 2.83px;
+        font-weight: 700;
+        letter-spacing: .04em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="m17.76,6.22h-2.03c-.09,0-.16.07-.16.16v1.3c.77-.48,1.54-.95,2.29-1.43-.03-.02-.06-.04-.1-.04Z"/>
+    <g>
+      <g>
+        <path class="cls-3" d="m10.01,11.54c.65-.41,1.31-.82,1.97-1.22l-1.61-3.97c-.02-.05-.07-.08-.12-.09-.02-.07-.09-.12-.17-.12h-1.51c-.07,0-.14.04-.17.11l-4.35,10.77c-.05.12.04.25.17.25h2.07c.07,0,.14-.04.17-.11l2.91-7.19.64,1.59Z"/>
+        <path class="cls-3" d="m12.54,11.69c-.79.72-1.59,1.43-2.38,2.13h0l-1.06.97h2.23l.96,2.37c.02.06.08.09.14.09h2.1c.13,0,.22-.13.17-.25l-2.15-5.32Z"/>
+      </g>
+      <path class="cls-3" d="m17.82,17.26c.06-.03.11-.1.11-.19V6.41c0-.06-.02-.12-.06-.15-.76.82-1.53,2.01-2.3,2.87v7.94c0,.09.04.16.11.19"/>
+    </g>
+  </g>
+  <text class="cls-2" transform="translate(3.91 19.68)"><tspan x="0" y="0">GENERATE</tspan></text>
+  <path class="cls-3" d="m11.3,26.1L0,19.58V6.53L11.3,0l11.3,6.53v13.05l-11.3,6.53ZM1.91,18.47l9.39,5.42,9.39-5.42V7.63L11.3,2.21,1.91,7.63v10.84Z"/>
+  <text class="cls-1" transform="translate(25.29 18.4)"><tspan x="0" y="0">Stormy Orange</tspan></text>
+</svg>
